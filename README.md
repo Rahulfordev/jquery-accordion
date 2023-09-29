@@ -1,1 +1,1 @@
-# jquery-accordion[https://rahulfordev.github.io/jquery-accordion/]
+# [jquery-accordion](https://rahulfordev.github.io/jquery-accordion/)
